@@ -3,7 +3,7 @@
 </a>
 
 <p align = "center">
-  <a href="https://github.com/navarrotheus/gostack-challenges">Ver todos desafios</a>
+  <a href="https://github.com/navarrotheus/ignite-node-challenges">Ver todos desafios</a>
 </p>
 
 <p align = "center">
